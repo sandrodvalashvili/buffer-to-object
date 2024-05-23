@@ -1,0 +1,32 @@
+{
+  "name": "buffer-to-object",
+  "version": "1.0.0",
+  "description": "This function will get a buffer object and return an object with hex string, number array, length of data. {Hex: (string), Int: (number[]), Len: (number)}.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandrodvalashvili/buffer-to-object.git"
+  },
+  "keywords": [
+    "buffer",
+    "to",
+    "object",
+    "hex",
+    "number",
+    "array",
+    "length",
+    "of",
+    "data",
+    "function"
+  ],
+  "author": "sandro dvalashvili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandrodvalashvili/buffer-to-object/issues"
+  },
+  "homepage": "https://github.com/sandrodvalashvili/buffer-to-object#readme"
+}
