@@ -1,5 +1,5 @@
 /**
- * This function gets buffer and return object with hex string, number array, length of data
+ * This function will get a buffer object and return an object with hex string, number array, length of data. {Hex: (string), Int: (number[]), Len: (number)}.
  * @param {buffer} inputBuffer
  * @returns {{Hex: string, Int: number[], Len: number}} bject with hex string, number array, length of data
 */
